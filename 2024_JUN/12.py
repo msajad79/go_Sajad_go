@@ -8,7 +8,7 @@
 
 Daily coding problem (Algorithm, DB and etc)
 
-Date: 2024-JUN-112
+Date: 2024-JUN-12
 
 app: leetcode
 problem: https://leetcode.com/problems/3sum/description/
