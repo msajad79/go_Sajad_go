@@ -19,5 +19,5 @@ Daily coding problem (Algorithm, Shell, DataBase and etc)
 7. [(2024-JUN-14) letter-combinations-of-a-phone-number - LeetCode ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 8. [(2024-JUN-15) merge-k-sorted-lists - LeetCode ](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 9. [(2024-JUN-16) employees-earning-more-than-their-managers - LeetCode ](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
-10. [(2024-JUN-19) second-highest-salary - LeetCode ] https://leetcode.com/problems/second-highest-salary/description
-11. [(2024-JUN-20) duplicate-emails - LeetCode ] https://leetcode.com/problems/duplicate-emails/description/
+10. [(2024-JUN-19) second-highest-salary - LeetCode ](https://leetcode.com/problems/second-highest-salary/description)
+11. [(2024-JUN-20) duplicate-emails - LeetCode ](https://leetcode.com/problems/duplicate-emails/description/)
