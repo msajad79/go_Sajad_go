@@ -22,13 +22,3 @@ while IFS= read -r line; do
         echo "$line"
     fi
 done < "$filename"
-filename="file.txt"
-
-count=0
-
-while IFS= read -r line; do
-    ((count++))
-    if [ $count -eq 10 ]; then
-        echo "$line"
-    fi
-done < "$filename"
